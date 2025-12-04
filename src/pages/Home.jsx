@@ -11,13 +11,9 @@ import ThemeToggle from "../components/ThemeToggle";
 function Home() {
   return (
     <div className="min-h-screen bg-background text-foreground overflow-x-hidden">
-      {/*theme toggle*/}
       <ThemeToggle />
-      {/*background fx*/}
       <StarBackground />
-      {/*navbar*/}
       <NavBar />
-      {/*main content*/}
       <main>
         <HeroSection />
         <AboutSection />
@@ -25,7 +21,6 @@ function Home() {
         <ProjectsSection />
         <ContactSection />
       </main>
-      {/*footer*/}
       <Footer />
     </div>
   );

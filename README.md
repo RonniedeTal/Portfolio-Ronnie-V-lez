@@ -14,6 +14,7 @@ This project is built with the following technologies:
 *   **@radix-ui/react-toast:** A React component for showing toast notifications.
 *   **class-variance-authority:** A library for creating a powerful and type-safe variant system for your components.
 *   **clsx:** A tiny utility for constructing `className` strings conditionally.
+*   **emailjs:** A service to send emails using client-side technologies only.
 
 ## 📦 Getting Started
 
