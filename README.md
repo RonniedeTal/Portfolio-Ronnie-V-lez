@@ -1,8 +1,8 @@
-# My Portfolio
+# 🌐 My Portfolio
 
 This is my personal portfolio website built with React and Vite.
 
-## Technologies Used
+## 🚀 Technologies Used
 
 This project is built with the following technologies:
 
@@ -15,18 +15,18 @@ This project is built with the following technologies:
 *   **class-variance-authority:** A library for creating a powerful and type-safe variant system for your components.
 *   **clsx:** A tiny utility for constructing `className` strings conditionally.
 
-## Getting Started
+## 📦 Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
-### Prerequisites
+### 🔧 Prerequisites
 
 *   npm
     ```sh
     npm install npm@latest -g
     ```
 
-### Installation
+### 📥 Installation
 
 1.  Clone the repo
     ```sh
