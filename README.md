@@ -43,6 +43,6 @@ To get a local copy up and running, follow these simple steps .
     ```
 ## 🚀 Deployment
 
-The application is deployed on Render and is available at the following link:
+The application is deployed on Vercel and is available at the following link:
 
 [https://portfolio-ronald-vlez.vercel.app/](https://portfolio-ronald-vlez.vercel.app/)
