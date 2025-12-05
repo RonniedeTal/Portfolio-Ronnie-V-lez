@@ -12,6 +12,15 @@ const projects = [
   },
   {
     id: 2,
+    title: "Project Mgmt",
+    description: "A responsive MERN app using React and Grahpql.",
+    image: "/projects/project.png",
+    tags: ["React", "Graphql", "Express", "Bootstrap", "Mongo Atlas"],
+    demoUrl: "https://mern-graphql-x8jp.onrender.com",
+    githubUrl: "https://github.com/RonniedeTal/mern-graphql.git",
+  },
+  {
+    id: 3,
     title: "Just Bands MusicFactory",
     description: "A responsive page app using React and Bootstrap.",
     image: "/projects/project2.png",
