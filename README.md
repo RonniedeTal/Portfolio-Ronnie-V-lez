@@ -41,3 +41,8 @@ To get a local copy up and running, follow these simple steps .
     ```sh
     npm run dev
     ```
+## 🚀 Deployment
+
+The application is deployed on Render and is available at the following link:
+
+[https://portfolio-ronald-vlez.vercel.app/](https://portfolio-ronald-vlez.vercel.app/)
